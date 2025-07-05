@@ -1,7 +1,7 @@
 # RabbitMQ Sender/Listener Demo
 
-**Owner/Creator**: [Jay Vachhani](https://github.com/jayvachhani-jv/)
-**Created**: 2024  
+**Owner/Creator**: [Jay Vachhani](https://github.com/jayvachhani-jv/)  
+**Created**: 2025  
 **Version**: 1.0.0  
 **License**: MIT  
 
